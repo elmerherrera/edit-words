@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/elmerherrera/edit-words/issues"
   },
-  "homepage": "https://github.com/elmerherrera/edit-words#readme"
+  "homepage": "https://github.com/elmerherrera/edit-words#readme",
+  "dependencies": {
+    "webpack": "^5.79.0"
+  }
 }
